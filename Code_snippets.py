@@ -11,3 +11,5 @@ file_name = 'Data.xlsx'
 df = pd.read_excel(file_name)
 print(df)
 
+#prints list of columns in a dataframe and their data types 
+df.dtypes
