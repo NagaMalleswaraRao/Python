@@ -1,1 +1,5 @@
+Open conda prompt
+Change the directory location by typing in --> cd C:\Work Files\Python Practice
+
+
 ctrl + cc to exit the Jupyter session
